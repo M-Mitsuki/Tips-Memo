@@ -11,7 +11,7 @@
 
 ## Memo
 ### Deep Learning on Graphs: A Survey
-<u>Abstract</u>
+*Abstract*
 * 画像や音声データと違って明確な構造を持たず、基本的な数学的操作をグラフに加えるのは難しい。
 * グラフ自体が、様々なタイプや特性を持っている。  
   タスクや特性ごとに、特定の問題を解くためのモデルアーキテクチャが要求される。
@@ -24,8 +24,8 @@
    
 ![TABLE1.JPG](./assets/TABLE1.JPG)
    
-<u>Graph Recurrent Neural Network</u>
-1. Node-level RNNs   
+**Graph Recurrent Neural Network**
+*Node-level RNNs*  
 グラフの構造情報をエンコードするために、各ノード<img src="https://latex.codecogs.com/gif.latex?v_i"> について低次元の状態ベクトル<img src="https://latex.codecogs.com/gif.latex?\bf{s}_i">で表す。  
 状態ベクトルは以下のように、再帰的に定義される。  
 <img src="https://latex.codecogs.com/gif.latex?\bf{s}_i=\sum_{j\in&space;\mathcal{N}(i)}\mathcal{F}(\bf{s_i,s_j,&space;F^V_i,F^V_j,F^E_{i,j}})">

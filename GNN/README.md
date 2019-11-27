@@ -24,7 +24,7 @@
    
 ![TABLE1.JPG](./assets/TABLE1.JPG)
    
-**Graph Recurrent Neural Network**
+**Graph Recurrent Neural Network**  
 *Node-level RNNs*  
 グラフの構造情報をエンコードするために、各ノード<img src="https://latex.codecogs.com/gif.latex?v_i"> について低次元の状態ベクトル<img src="https://latex.codecogs.com/gif.latex?\bf{s}_i">で表す。  
 状態ベクトルは以下のように、再帰的に定義される。  

@@ -28,9 +28,9 @@
 *Node-level RNNs*  
 グラフの構造情報をエンコードするために、各ノード<img src="https://latex.codecogs.com/gif.latex?v_i"> について低次元の状態ベクトル<img src="https://latex.codecogs.com/gif.latex?\bf{s}_i">で表す。  
 状態ベクトルは以下のように、再帰的に定義される。  
-<img src="https://latex.codecogs.com/gif.latex?\bf{s}_i=\sum_{j\in&space;\mathcal{N}(i)}\mathcal{F}(\bf{s_i,s_j,&space;F^V_i,F^V_j,F^E_{i,j}})">
+<img src="https://latex.codecogs.com/gif.latex?\bf{s}_i=\sum_{j\in&space;\mathcal{N}(i)}\mathcal{F}(\bf{s_i,s_j,&space;F^V_i,F^V_j,F^E_{i,j}})">  
 <img src="https://latex.codecogs.com/gif.latex?\mathcal{F}(\cdot)">と<img src="https://latex.codecogs.com/gif.latex?\mathcal{O}(\cdot)">が学習され、最終的なアウトプットとして以下が得られる。  
-<img src="https://latex.codecogs.com/gif.latex?\hat{y}_i=\mathcal{O}(\bf{s_i,F^V_i})">
+<img src="https://latex.codecogs.com/gif.latex?\hat{y}_i=\mathcal{O}(\bf{s_i,F^V_i})">  
 グラフベースなタスクにおいて、グラフ全体の潜在ベクトルを求めたい場合には、全ノードと隣接するマスターノードを加える。  
 
 <img src="">

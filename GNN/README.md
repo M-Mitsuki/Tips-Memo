@@ -8,6 +8,7 @@
   * [GCNs（Graph Convolutional Networks）とは](https://www.albert2005.co.jp/knowledge/machine_learning/deep_learning/about_gcns)
   * [グラフにまつわるサーベイまとめ](https://logmi.jp/tech/articles/321767)
   * [グラフィカルモデル解説](https://www.slideshare.net/Kawamoto_Kazuhiko/ss-35483453?next_slideshow=1)
+  * [GNN/GCN 備忘録](https://izuna385.hatenablog.com/entry/GNN_and_GCN_useful_links)
 
 ## Memo
 ### Deep Learning on Graphs: A Survey

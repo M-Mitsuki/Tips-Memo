@@ -7,6 +7,8 @@
 * [Graph Neural Network](https://github.com/M-Mitsuki/Tips-Memo/tree/master/GNN)
 * [Denoising](https://github.com/M-Mitsuki/Tips-Memo/tree/master/Denoising)
 * [AutoFocus](https://github.com/M-Mitsuki/Tips-Memo/tree/master/AutoFocus)
+* [ObjectDetection](https://github.com/M-Mitsuki/Tips-Memo/tree/master/ObjectDetection)
+* [3D Algorithm](https://github.com/M-Mitsuki/Tips-Memo/tree/master/3D-Algorithm)
 
 ## LINK
 * [統計解説資料](https://gwthomas.github.io/docs/math4ml.pdf)

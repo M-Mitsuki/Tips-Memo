@@ -5,6 +5,8 @@
   
 ## Tips
 * [Graph Neural Network](https://github.com/M-Mitsuki/Tips-Memo/tree/master/GNN)
+* [Denoising](https://github.com/M-Mitsuki/Tips-Memo/tree/master/Denoising)
+* [AutoFocus](https://github.com/M-Mitsuki/Tips-Memo/tree/master/AutoFocus)
 
 ## LINK
 * SLAM
@@ -14,7 +16,7 @@
   * [拡張カルマンフィルタによる自己位置推定](https://qiita.com/Crafty_as_a_Fox/items/55448e2ed9ce0f340814)
   * [SLAM-Github](https://github.com/takuyani/SLAM-Robot_Simu)
 
-* 統計基礎   
+* 統計   
   * <https://to-kei.net/>   
   * <https://gwthomas.github.io/docs/math4ml.pdf>  
 * NLPの講義動画   

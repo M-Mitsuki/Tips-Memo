@@ -10,15 +10,15 @@
 
 ## LINK
 * [統計解説資料](https://gwthomas.github.io/docs/math4ml.pdf)
-* NLPの講義動画   
-  * <https://www.youtube.com/playlist?list=PL8PYTP1V4I8Ajj7sY6sdtmjgkt7eo2VMs>   
-  * <https://github.com/neubig/nn4nlp-code>  
 * [輪読資料一覧](https://deeplearning.jp/seminar/)
 * [機械学習で使う"距離"や"空間"](https://www.procrasist.com/entry/23-distance)
 * [多次元空間における次元の呪い](https://windfall.hatenablog.com/entry/2015/07/02/084623)
 * [HELLO CYBERNETICS](https://www.hellocybernetics.tech/)
 * [メンヘラちゃんと学ぶDeep Learning](http://deeplearning.hatenablog.com/entry/menhera_chan)
 * [Medical-AI Chainer](https://japan-medical-ai.github.io/medical-ai-course-materials/index.html)
+* NLPの講義動画   
+  * <https://www.youtube.com/playlist?list=PL8PYTP1V4I8Ajj7sY6sdtmjgkt7eo2VMs>   
+  * <https://github.com/neubig/nn4nlp-code>  
 
 ## アルゴリズム
 * [MovileNetV2図示解説](https://qiita.com/yu4u/items/dc26d220e85279e76157)

@@ -19,6 +19,7 @@
 * 統計   
   * <https://to-kei.net/>   
   * <https://gwthomas.github.io/docs/math4ml.pdf>  
+* [メンヘラちゃんと学ぶDeep Learning](http://deeplearning.hatenablog.com/entry/menhera_chan)
 * NLPの講義動画   
   * <https://www.youtube.com/playlist?list=PL8PYTP1V4I8Ajj7sY6sdtmjgkt7eo2VMs>   
   * <https://github.com/neubig/nn4nlp-code>  

@@ -1,6 +1,6 @@
 # 3D Algorithm
 ## LINK
-  * [3D Machine Learning](https://github.com/timzhang642/3D-Machine-Learning)
+  * [3D-MachineLearning まとめ](https://github.com/timzhang642/3D-Machine-Learning)
   
   * SLAM
     * [SLAM参考書](https://www.amazon.co.jp/詳解-確率ロボティクス-Pythonによる基礎アルゴリズムの実装-KS理工学専門書-上田/dp/4065170060/ref=cm_cr_arp_d_product_top?ie=UTF8>)

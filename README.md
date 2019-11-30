@@ -1,7 +1,7 @@
 # Tips-Memo
 
 ## Paper
-* [Paper Summary](https://github.com/M-Mitsuki/Tips-Memo/issues)
+* [Paper Summary](https://github.com/M-Mitsuki/Tips-Memo/issues?q=is%3Aissue+is%3Aclosed)
   
 ## Tips
 * [Graph Neural Network](https://github.com/M-Mitsuki/Tips-Memo/tree/master/GNN)

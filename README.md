@@ -26,6 +26,7 @@
 * [MovileNetV2図示解説](https://qiita.com/yu4u/items/dc26d220e85279e76157)
 * [Pooling図示解説](https://qiita.com/yu4u/items/5cbe9db166a5d72f9eb8)
 * [フーリエ変換と画像圧縮](https://www.slideshare.net/ginrou799/ss-46355460)
+* [フーリエ変換](https://www.yukisako.xyz/entry/fourier-transform)
 * Wasserstein GAN   
   * <http://wanwannodao.hatenablog.com/entry/2017/02/28/051353>   
   * <https://www.slideshare.net/DeepLearningJP2016/dlimproved-training-of-wasserstein-gans-81010174>   

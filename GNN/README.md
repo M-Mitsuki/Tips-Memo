@@ -10,6 +10,7 @@
   * [グラフィカルモデル解説](https://www.slideshare.net/Kawamoto_Kazuhiko/ss-35483453?next_slideshow=1)
   * [GNN/GCN 備忘録](https://izuna385.hatenablog.com/entry/GNN_and_GCN_useful_links)
   * [自然言語処理へのGNN](https://medium.com/programming-soda/graph-convolution%E3%82%92%E8%87%AA%E7%84%B6%E8%A8%80%E8%AA%9E%E5%87%A6%E7%90%86%E3%81%AB%E5%BF%9C%E7%94%A8%E3%81%99%E3%82%8B-part1-b792d53c4c18)
+  * [グラフ構造を畳み込む！](https://qiita.com/tktktks10/items/98d21133cf3e121676c3)
 
 ## Memo
 ### Deep Learning on Graphs: A Survey

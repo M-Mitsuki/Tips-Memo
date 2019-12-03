@@ -12,6 +12,10 @@
   * [自然言語処理へのGNN](https://medium.com/programming-soda/graph-convolution%E3%82%92%E8%87%AA%E7%84%B6%E8%A8%80%E8%AA%9E%E5%87%A6%E7%90%86%E3%81%AB%E5%BF%9C%E7%94%A8%E3%81%99%E3%82%8B-part1-b792d53c4c18)
   * [グラフ構造を畳み込む！](https://qiita.com/tktktks10/items/98d21133cf3e121676c3)
   * [GNNとグラフ信号処理](https://masashi16.hatenablog.com/entry/2019/08/13/135753)
+  * [How Powerful are Graph Neural Networks?](https://medium.com/programming-soda/graph-neural-network%E3%81%AE%E5%87%A6%E7%90%86%E3%81%A8%E5%8A%B9%E6%9E%9C%E3%82%92%E7%90%86%E8%A7%A3%E3%81%99%E3%82%8B-how-powerful-are-graph-neural-networks-a26ee9245cce)
+  * [How Powerful are Graph Neural Networks?](http://peluigi.hatenablog.com/entry/2018/11/09/161631)
+  * [PATCHY SAN](https://www.slideshare.net/DeepLearningJP2016/dllearning-convolutional-neural-networks-for-graphs)
+  * [PATCHY SAN 秋葉](https://www.slideshare.net/iwiwi/learning-convolutional-neural-networks-for-graphs-64231265)
 
 ## Memo
 ### Deep Learning on Graphs: A Survey

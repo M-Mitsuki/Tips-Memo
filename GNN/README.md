@@ -17,6 +17,7 @@
   * [How Powerful are Graph Neural Networks?](https://www.slideshare.net/masanaoochi3/how-powerful-are-graph-neural-networks)
   * [PATCHY SAN 秋葉](https://www.slideshare.net/iwiwi/learning-convolutional-neural-networks-for-graphs-64231265)
   * [Graph Networks](https://www.slideshare.net/DeepLearningJP2016/dlrelational-inductive-biases-deep-learning-and-graph-networks-104442091)
+  * [Relational Graph Convolutional Network](https://note.com/shohomiura/n/n5dd36a40a0e2)
 
 ## Memo
 ### Deep Learning on Graphs: A Survey

@@ -10,21 +10,25 @@
 * [ObjectDetection](https://github.com/M-Mitsuki/Tips-Memo/tree/master/ObjectDetection)
 * [3D Algorithm](https://github.com/M-Mitsuki/Tips-Memo/tree/master/3D-Algorithm)
 
-## Tips
+## Technical Tips
 * [Deep Learning: A Survey of Surveys](https://qiita.com/bukei_student/items/5d0ec0e7cc36d211e17a)
-* [python3 urllibプロキシ設定](https://qiita.com/gazami/items/4b42371ed831c159fb04)
-* [Pythonの並列処理・並行処理](https://qiita.com/simonritchie/items/1ce3914eb5444d2157ac)
 * [pytorch入門](pytorch入門)
 * [実践Pytorch](https://qiita.com/perrying/items/857df46bb6cdc3047bd8)
 * [PyTorchのRNNとRNNCell](https://takoroy-ai.hatenadiary.jp/entry/2018/06/10/203531)
-* [pip-proxy](https://gammasoft.jp/support/pip-install-error/)
 * [Optuna](https://www.hellocybernetics.tech/entry/2018/12/22/160349)
-* [Pythonパッケージを作る方法](https://qiita.com/Kensuke-Mitsuzawa/items/7717f823df5a30c27077)
 * [PyTorch-Scheduler まとめ](http://katsura-jp.hatenablog.com/entry/2019/01/30/183501)
 * [Pytorch-ObjectDetection](https://github.com/open-mmlab/mmdetection)
 * [Pytorch-Transformer](https://github.com/huggingface/transformers)
-* [Jupyter Notebookをより便利に使う](https://qiita.com/ishizakiiii/items/b98bbf8997f039f40058)
 * [いろいろまとめ](https://kobiso.github.io//research/research-probability/)
+
+## Developement
+* [PlantUML](https://qiita.com/couzie/items/9dedb834c5aff09ea7b2)
+* [python3 urllibプロキシ設定](https://qiita.com/gazami/items/4b42371ed831c159fb04)
+* [Pythonの並列処理・並行処理](https://qiita.com/simonritchie/items/1ce3914eb5444d2157ac)
+* [pip-proxy](https://gammasoft.jp/support/pip-install-error/)
+* [Jupyter Notebookをより便利に使う](https://qiita.com/ishizakiiii/items/b98bbf8997f039f40058)
+* [Pythonパッケージを作る方法](https://qiita.com/Kensuke-Mitsuzawa/items/7717f823df5a30c27077)
+
 
 ## LINK
 * [Google AI Blog](https://ai.googleblog.com/)

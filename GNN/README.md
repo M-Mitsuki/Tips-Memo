@@ -18,6 +18,9 @@
   * [PATCHY SAN 秋葉](https://www.slideshare.net/iwiwi/learning-convolutional-neural-networks-for-graphs-64231265)
   * [Graph Networks](https://www.slideshare.net/DeepLearningJP2016/dlrelational-inductive-biases-deep-learning-and-graph-networks-104442091)
   * [Relational Graph Convolutional Network](https://note.com/shohomiura/n/n5dd36a40a0e2)
+  * [グラフニューラルネットワークの資料リンク](https://qiita.com/s_zh/items/d9308f4b9ff1445d8541)
+  * [GNNとグラフ信号処理](https://masashi16.hatenablog.com/entry/2019/08/13/135753)
+  * [PyTorchでGraph Neural Network](http://doll.hatenadiary.com/entry/2019/05/07/133448)
 
 ## Memo
 ### Deep Learning on Graphs: A Survey

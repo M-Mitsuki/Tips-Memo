@@ -45,8 +45,10 @@
 ## アルゴリズム
 * [Python ベイズ最適化](https://ohke.hateblo.jp/entry/2018/08/04/230000)
 * [特異値分解 解説](https://qiita.com/sakami/items/d01fa353b4e1f48623a8)
+* [勾配ブースティング](https://qiita.com/woody_egg/items/232e982094cd3c80b3ee)
 * [ベイジアン・ディープラーニングによる安全なAIの実現](https://qiita.com/takaaki5564/items/5ed89541d8d2a4725baa)
 * [MovileNetV2図示解説](https://qiita.com/yu4u/items/dc26d220e85279e76157)
+* [分散共分散行列、相関行列とグラム行列の関係](https://blog.shikoan.com/cov-corr-gram-matrix/#i-3)
 * StyleGAN
   * <https://www.youtube.com/watch?v=kSLJriaOumA>
   * <https://tech.preferred.jp/ja/blog/chainer-gogh/>
@@ -55,6 +57,7 @@
 * [フーリエ変換と画像圧縮](https://www.slideshare.net/ginrou799/ss-46355460)
 * [フーリエ変換](https://www.yukisako.xyz/entry/fourier-transform)
 * [Shall we GANS?](http://ssii.jp/ssii/files/2019/pdf/TS1-01.pdf)
+* [遠距離恋愛で学ぶいろいろな距離](https://qiita.com/shionhonda/items/e784e27deb7753156e23)
 * Wasserstein GAN
   * <http://wanwannodao.hatenablog.com/entry/2017/02/28/051353>
   * <https://www.slideshare.net/DeepLearningJP2016/dlimproved-training-of-wasserstein-gans-81010174>

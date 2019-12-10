@@ -24,6 +24,7 @@
 * [Pytorch-ObjectDetection](https://github.com/open-mmlab/mmdetection)
 * [Pytorch-Transformer](https://github.com/huggingface/transformers)
 * [Jupyter Notebookをより便利に使う](https://qiita.com/ishizakiiii/items/b98bbf8997f039f40058)
+* [いろいろまとめ](https://kobiso.github.io//research/research-probability/)
 
 ## LINK
 * [Google AI Blog](https://ai.googleblog.com/)
@@ -33,7 +34,13 @@
 * [多次元空間における次元の呪い](https://windfall.hatenablog.com/entry/2015/07/02/084623)
 * [HELLO CYBERNETICS](https://www.hellocybernetics.tech/)
 * [メンヘラちゃんと学ぶDeep Learning](http://deeplearning.hatenablog.com/entry/menhera_chan)
-* [Medical-AI Chainer](https://japan-medical-ai.github.io/medical-ai-course-materials/index.html) 
+* [Medical-AI Chainer](https://japan-medical-ai.github.io/medical-ai-course-materials/index.html)
+* [医療系AIエンジニアの技術メモ](https://www.ai-engineer-memo.com/)
+* [Bioimage Benchmark Collection](https://data.broadinstitute.org/bbbc/image_sets.html)
+* [2019 CIFAR DLRL Summer School Lectures](https://www.youtube.com/playlist?list=PLKlhhkvvU8-aXmPQZNYG_e-2nTd0tJE8v)
+* [画像処理100本ノック!!](https://github.com/yoyoyo-yo/Gasyori100knock)
+* [ディープラーニング∞本ノック](https://github.com/yoyoyo-yo/DeepLearningMugenKnock)
+* [Deep Learningまとめ(2017)](http://yagami12.hatenablog.com/entry/2017/09/17/111935#%E3%82%B0%E3%83%A9%E3%83%95%E7%95%B3%E3%81%BF%E8%BE%BC%E3%81%BF%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF)
 
 ## アルゴリズム
 * [Python ベイズ最適化](https://ohke.hateblo.jp/entry/2018/08/04/230000)
@@ -47,6 +54,7 @@
 * [Pooling図示解説](https://qiita.com/yu4u/items/5cbe9db166a5d72f9eb8)
 * [フーリエ変換と画像圧縮](https://www.slideshare.net/ginrou799/ss-46355460)
 * [フーリエ変換](https://www.yukisako.xyz/entry/fourier-transform)
+* [Shall we GANS?](http://ssii.jp/ssii/files/2019/pdf/TS1-01.pdf)
 * Wasserstein GAN
   * <http://wanwannodao.hatenablog.com/entry/2017/02/28/051353>
   * <https://www.slideshare.net/DeepLearningJP2016/dlimproved-training-of-wasserstein-gans-81010174>

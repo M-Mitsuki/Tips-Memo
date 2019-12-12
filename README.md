@@ -44,6 +44,7 @@
 * [Seabornでグラフを重ねてプロットする方法](https://kenyu-life.com/2019/04/30/seaborn_plots/)
 * [seaborn を使った可視化](https://blog.amedama.jp/entry/seaborn-plot)
 * [Matplotlib(Seaborn)の基本的な使い方](https://note.com/hiro10_yme38/n/nd2fa525942f3)
+* [Pandasで欠損値処理](https://qiita.com/0NE_shoT_/items/8db6d909e8b48adcb203)
 
 ## LINK
 * [Google AI Blog](https://ai.googleblog.com/)

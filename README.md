@@ -29,6 +29,21 @@
 * [Jupyter Notebookをより便利に使う](https://qiita.com/ishizakiiii/items/b98bbf8997f039f40058)
 * [Pythonパッケージを作る方法](https://qiita.com/Kensuke-Mitsuzawa/items/7717f823df5a30c27077)
 
+## Matplotlib / seaborn
+* [グラフの始点の指定](https://ja.stackoverflow.com/questions/41200/matplotlib%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E3%82%B0%E3%83%A9%E3%83%95%E3%81%AE%E5%A7%8B%E7%82%B9%E3%81%AE%E6%8C%87%E5%AE%9A)
+* [見栄えの良い色, グラフを作る](https://www.procrasist.com/entry/matplotlib-visual-tips)
+* [データ解析入門-グラフ](https://openbook4.me/projects/183/sections/1282)
+* [リアルタイムプロット](https://qiita.com/dendensho/items/79e9d2e3d4e8eb5061bc)
+* [アニメーションGIFを作成、保存](https://note.nkmk.me/python-pillow-gif/)
+* [3D散布図編](https://ct-innovation01.xyz/DL-Freetime/matplotlib05/)
+* [論文やプレゼン資料用の図を作るためのテクニック4選](https://qiita.com/nobolis/items/cb84394fbf0ce26cb1f7)
+* [アニメーション作成](https://qiita.com/AnchorBlues/items/3acd37331b12e844d259)
+* [アニメーションを作成，保存](https://ossyaritoori.hatenablog.com/entry/2018/12/01/matplotlib%E3%81%A7%E3%82%A2%E3%83%8B%E3%83%A1%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%82%92%E4%BD%9C%E6%88%90%EF%BC%8C%E4%BF%9D%E5%AD%98)
+* [画像の分割と連結](https://qiita.com/ka10ryu1/items/015c6a6a5fa287a47828)
+* [連番画像から動画を作成する](https://qiita.com/itoru257/items/228a91404fa77c780fd4)
+* [Seabornでグラフを重ねてプロットする方法](https://kenyu-life.com/2019/04/30/seaborn_plots/)
+* [seaborn を使った可視化](https://blog.amedama.jp/entry/seaborn-plot)
+* [Matplotlib(Seaborn)の基本的な使い方](https://note.com/hiro10_yme38/n/nd2fa525942f3)
 
 ## LINK
 * [Google AI Blog](https://ai.googleblog.com/)

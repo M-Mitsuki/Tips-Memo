@@ -57,6 +57,7 @@
 * [メンヘラちゃんと学ぶDeep Learning](http://deeplearning.hatenablog.com/entry/menhera_chan)
 * [Medical-AI Chainer](https://japan-medical-ai.github.io/medical-ai-course-materials/index.html)
 * [医療系AIエンジニアの技術メモ](https://www.ai-engineer-memo.com/)
+* [ココアのお勉強ブログ](https://hotcocoastudy.hatenablog.jp/)
 * [Bioimage Benchmark Collection](https://data.broadinstitute.org/bbbc/image_sets.html)
 * [2019 CIFAR DLRL Summer School Lectures](https://www.youtube.com/playlist?list=PLKlhhkvvU8-aXmPQZNYG_e-2nTd0tJE8v)
 * [画像処理100本ノック!!](https://github.com/yoyoyo-yo/Gasyori100knock)

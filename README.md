@@ -20,6 +20,7 @@
 * [Pytorch-ObjectDetection](https://github.com/open-mmlab/mmdetection)
 * [Pytorch-Transformer](https://github.com/huggingface/transformers)
 * [いろいろまとめ](https://kobiso.github.io//research/research-probability/)
+* [What Does CNN Learn?](https://speakerdeck.com/tanimutomo/what-does-cnn-learn)
 
 ## Developement
 * [PlantUML](https://qiita.com/couzie/items/9dedb834c5aff09ea7b2)

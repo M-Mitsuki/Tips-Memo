@@ -21,6 +21,7 @@
   * [グラフニューラルネットワークの資料リンク](https://qiita.com/s_zh/items/d9308f4b9ff1445d8541)
   * [GNNとグラフ信号処理](https://masashi16.hatenablog.com/entry/2019/08/13/135753)
   * [PyTorchでGraph Neural Network](http://doll.hatenadiary.com/entry/2019/05/07/133448)
+  * [GNN/pytorch/Jupyter](https://github.com/omiita/PyTorchGeometric-Tutorial)
 
 ## Memo
 ### Deep Learning on Graphs: A Survey
